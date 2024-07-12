@@ -24,7 +24,7 @@ _From left to right: Berlin night (Mapbox GL JS), Berlin day (Tangram JS)._
 
 ### HERE Maps API for JavaScript
 
-* [Live demo](https://heremaps.github.io/here-vector-tile-examples/here-maps-api-for-javascript)
+* [Live demo](https://xiaogangwen.github.io/here-vector-tile-examples/here-maps-api-for-javascript)
 * [Source code](https://github.com/heremaps/here-vector-tile-examples/blob/master/here-maps-api-for-javascript/index.html)
 * [How to create an application with HERE Maps API for JavaScript](https://developer.here.com/tutorials/javascript-api/)
 
